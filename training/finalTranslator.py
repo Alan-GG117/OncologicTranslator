@@ -1,17 +1,23 @@
 import pickle
 import pandas as pd
 import spacy
+import os
 
 # 1. Carga de componentes
 print("Cargando Motor Híbrido...")
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+ruta_modelo = os.path.join(BASE_DIR, "..", "model", "Model_IBM1.pkl")
+ruta_glosario = os.path.join(BASE_DIR, "..", "data", "banco_terminos_paso_B_para_traducir.csv")
+
 # Carga de la MATRIZ de IBM 1 (ya no es un modelo NLTK, es un diccionario)
-with open("../model/Model_IBM1.pkl", "rb") as f:
+with open(ruta_modelo, "rb") as f:
     model_dict = pickle.load(f)
 
 # Cargar spacy y glosario
 nlp = spacy.load("en_core_web_sm")
-df = pd.read_csv("../data/banco_terminos_paso_B_para_traducir.csv")
+df = pd.read_csv(ruta_glosario)
 medicDictionary = dict(zip(df.Termino_Ingles.str.lower(), df.Termino_Espanol))
 
 # Inyectar reglas a SpaCy
