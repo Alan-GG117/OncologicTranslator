@@ -46,9 +46,20 @@ def trainingAndSaving():
     print(f"Entrenamiento finalizado en {total} segundos")
 
     # 6. Serializacion (Guardar el Modelo)
-    print("\nGuardando el modelo... ")
+    print("\nExtrayendo y reordenando matriz de conocimiento... ")
+
+    matriz_optimizada = {}
+
+    # NLTK guarda: translation_table[Palabra_Espanol][Palabra_Ingles] = Probabilidad
+    # Nosotros lo invertimos a: matriz_optimizada[Palabra_Ingles][Palabra_Espanol] = Probabilidad
+    for palabra_es, traducciones in model.translation_table.items():
+        for palabra_en, prob in traducciones.items():
+            if palabra_en not in matriz_optimizada:
+                matriz_optimizada[palabra_en] = {}
+            matriz_optimizada[palabra_en][palabra_es] = prob
+
     with open(modelPath, 'wb') as file:
-        pickle.dump(model, file)
+        pickle.dump(matriz_optimizada, file)
 
     print(f"Modelo guardado correctamente en: {modelPath}")
     print("\n--- PROCESO COMPLETADO ---")
