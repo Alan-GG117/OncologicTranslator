@@ -1,0 +1,179 @@
+Termino_Ingles,Tipo_Entidad,Termino_Espanol
+breast cancer,DISEASE,cáncer de mama
+malignancies,DISEASE,neoplasias malignas
+cancer,DISEASE,cáncer
+primary breast sarcoma,DISEASE,sarcoma primario de mama
+primary breast sarcomas,DISEASE,sarcomas primarios de mama
+breast malignancies,DISEASE,neoplasias malignas de mama
+breast implant-associated plasmacytoma,DISEASE,plasmacitoma asociado a implante mamario
+breast implant-associated neoplasms,DISEASE,neoplasias asociadas a implante mamario
+lymphomas,DISEASE,linfomas
+anaplastic large cell lymphoma,DISEASE,linfoma anaplásico de células grandes
+alcl,DISEASE,LCAG
+breast implant-associated,DISEASE,asociado a implante mamario
+deaths,DISEASE,muertes
+tn 38163,CHEMICAL,tn 38163
+tn,CHEMICAL,tn
+tn 38138,CHEMICAL,tn 38138
+malignancy,DISEASE,neoplasia maligna
+infections,DISEASE,infecciones
+lung cancer,DISEASE,cáncer de pulmón
+sbbc,CHEMICAL,sbbc
+ubc,DISEASE,cáncer de mama no clasificado
+primary breast cancers,DISEASE,cánceres primarios de mama
+breast papillary neoplasms,DISEASE,neoplasias papilares de mama
+tumors,DISEASE,tumores
+breast and cutaneous neoplasms,DISEASE,neoplasias mamarias y cutáneas
+primary cancer,DISEASE,cáncer primario
+breast disease,DISEASE,enfermedad mamaria
+death,DISEASE,muerte
+confusion,DISEASE,confusión
+primary breast cancer,DISEASE,cáncer primario de mama
+multicentricity,DISEASE,multicentricidad
+tamoxifen,CHEMICAL,tamoxifen
+extra-mammary tumours,DISEASE,tumores extramamarios
+neuroendocrine tumors,DISEASE,tumores neuroendocrinos
+primary neuroendocrine tumors,DISEASE,tumores neuroendocrinos primarios
+mammary carcinoma,DISEASE,carcinoma mamario
+breast carcinoma,DISEASE,carcinoma de mama
+carcinoma of the lung,DISEASE,carcinoma de pulmón
+breast carcinomas,DISEASE,carcinomas de mama
+papillary carcinomas,DISEASE,carcinomas papilares
+neuroendocrine tumor,DISEASE,tumor neuroendocrino
+tumor,DISEASE,tumor
+heterogeneous disease,DISEASE,enfermedad heterogénea
+breast tumors,DISEASE,tumores de mama
+microinvasive carcinoma of the breast,DISEASE,carcinoma microinvasivo de mama
+microinvasive breast carcinoma,DISEASE,carcinoma microinvasivo de mama
+hamartoma of the breast,DISEASE,hamartoma de mama
+mammary hamartomas,DISEASE,hamartomas mamarios
+calcification,DISEASE,calcificación
+hamartomas of the breast,DISEASE,hamartomas de mama
+fibroadenomas,DISEASE,fibroadenomas
+lipomas,DISEASE,lipomas
+cystosarcoma,DISEASE,cistosarcoma
+tumour,DISEASE,tumor
+breast microcalcifications,DISEASE,microcalcificaciones mamarias
+palpable,DISEASE,palpable
+organochlorines,CHEMICAL,organochlorines
+polychlorinated biphenyls,CHEMICAL,polychlorinated biphenyls
+raloxifene,CHEMICAL,raloxifene
+osteoporosis,DISEASE,osteoporosis
+breast self-examinations,DISEASE,autoexploración mamaria
+breast plasmacytoma,DISEASE,plasmacitoma de mama
+multiple myeloma,DISEASE,mieloma múltiple
+plasmacytoma,DISEASE,plasmacitoma
+occult breast cancer,DISEASE,cáncer de mama oculto
+primary breast irradiation,DISEASE,irradiación primaria de mama
+primary breast tumors,DISEASE,tumores primarios de mama
+cancers,DISEASE,cánceres
+labc,DISEASE,cáncer de mama localmente avanzado
+ajcc,DISEASE,AJCC
+mbc,DISEASE,cáncer de mama metastásico
+breast sarcomas,DISEASE,sarcomas de mama
+sarcoma,DISEASE,sarcoma
+sarcomas,DISEASE,sarcomas
+tg,DISEASE,TG
+breast cancer recurrence,DISEASE,recurrencia de cáncer de mama
+clinical cancer,DISEASE,cáncer clínico
+breast developing cancer,DISEASE,cáncer en desarrollo de mama
+non-epithelial primary breast neoplasms,DISEASE,neoplasias primarias no epiteliales de mama
+non-epithelial breast neoplasms,DISEASE,neoplasias no epiteliales de mama
+breast lesions,DISEASE,lesiones mamarias
+haemangiomas,DISEASE,hemangiomas
+myofibroblastomas,DISEASE,miofibroblastomas
+non-hodgkin's lymphoma,DISEASE,linfoma no Hodgkin
+nhl,DISEASE,LNH
+angiosarcomas,DISEASE,angiosarcomas
+non-epithelial primary breast tumors,DISEASE,tumores primarios no epiteliales de mama
+breast angiosarcoma,DISEASE,angiosarcoma de mama
+endothelial malign tumor,DISEASE,tumor maligno endotelial
+breast malignant tumors,DISEASE,tumores malignos de mama
+angiosarcoma,DISEASE,angiosarcoma
+angiocarcinoma,DISEASE,angiocarcinoma
+aggressive tumor,DISEASE,tumor agresivo
+moroccan,DISEASE,marroquí
+anderson cancer,DISEASE,cáncer Anderson
+ibc,DISEASE,cáncer de mama inflamatorio
+breast lesion,DISEASE,lesión mamaria
+triple-negative occult male breast cancer,DISEASE,cáncer de mama masculino oculto triple negativo
+breast cancer res,DISEASE,investigación de cáncer de mama
+hasüregi,CHEMICAL,hasüregi
+laboratórium,CHEMICAL,laboratórium
+metaplastic breast tumour,DISEASE,tumor metaplásico de mama
+dedifferentiated malignancy,DISEASE,neoplasia maligna desdiferenciada
+breast tumours,DISEASE,tumores de mama
+neo-adjuvant,CHEMICAL,neo-adjuvant
+rev,CHEMICAL,rev
+metabolic alterations,DISEASE,alteraciones metabólicas
+27-hydroxycholesterol,CHEMICAL,27-hydroxycholesterol
+estrogen,CHEMICAL,estrogen
+glucose,CHEMICAL,glucose
+short-chain fatty acids,CHEMICAL,short-chain fatty acids
+dysbiosis,DISEASE,disbiosis
+hypertrophy,DISEASE,hipertrofia
+volume reduction,DISEASE,reducción de volumen
+mammary hypertrophy,DISEASE,hipertrofia mamaria
+estradiol,CHEMICAL,estradiol
+estrone,CHEMICAL,estrone
+estriol,CHEMICAL,estriol
+progesterone,CHEMICAL,progesterone
+gynecomastia,DISEASE,ginecomastia
+bilimoria,CHEMICAL,bilimoria
+retinoids,CHEMICAL,retinoids
+metaplastic breast carcinoma,DISEASE,carcinoma metaplásico de mama
+histogenesis,DISEASE,histogénesis
+cancer deaths,DISEASE,muertes por cáncer
+neoplasms,DISEASE,neoplasias
+squamous carcinoma,DISEASE,carcinoma escamoso
+endometrial adenocarcinoma,DISEASE,adenocarcinoma endometrial
+signet-ring cell carcinoma,DISEASE,carcinoma de células en anillo de sello
+small cell,DISEASE,células pequeñas
+plasma cell myeloma,DISEASE,mieloma de células plasmáticas
+extramammary malignancy,DISEASE,neoplasia maligna extramamaria
+extramammary neoplasm,DISEASE,neoplasia extramamaria
+turhan n,DISEASE,Turhan N
+metaplastic breast cancer,DISEASE,cáncer de mama metaplásico
+ductal carcinoma,DISEASE,carcinoma ductal
+calcifications,DISEASE,calcificaciones
+early-onset disease,DISEASE,enfermedad de inicio temprano
+rev cancer,DISEASE,cáncer Rev
+human breast cancers,DISEASE,cánceres de mama humanos
+breast epithelial stem cells or their progeny,DISEASE,células madre epiteliales mamarias o su progenie
+hereditary breast cancer,DISEASE,cáncer de mama hereditario
+hereditary breast,DISEASE,mama hereditaria
+oestrogen,CHEMICAL,oestrogen
+pmc2614506,CHEMICAL,pmc2614506
+breast diseases,DISEASE,enfermedades mamarias
+lymphoedema,DISEASE,linfedema
+mk,CHEMICAL,mk
+breast neoplasm,DISEASE,neoplasia de mama
+neoplasm,DISEASE,neoplasia
+testosterone,CHEMICAL,testosterone
+estrogen/progestin,CHEMICAL,estrogen/progestin
+painless,DISEASE,indoloro
+dysplasia,DISEASE,displasia
+breast cancer in pregnancy,DISEASE ,cáncer de mama en el embarazo
+male breast cancer,DISEASE,cáncer de mama masculino
+klinefelter syndrome,DISEASE,síndrome de Klinefelter
+paget's disease of the nipple,DISEASE,enfermedad de Paget del pezón
+paget's disease of the breast,DISEASE,enfermedad de Paget de la mama
+disorder of the nipple-areola,DISEASE,trastorno del pezón-areola
+paget's disease,DISEASE,enfermedad de Paget
+paget's cells originate from ductal cancer,DISEASE,las células de Paget se originan del cáncer ductal
+triple-negative breast cancers,DISEASE,cánceres de mama triple negativos
+congenital breast abnormality,DISEASE,anomalía congénita de mama
+ectopic breast cancers,DISEASE,cánceres de mama ectópicos
+abnormalities,DISEASE,anomalías
+ectopic breast cancer,DISEASE,cáncer de mama ectópico
+fibrocystic disease,DISEASE,enfermedad fibroquística
+infiltrating lobular cancer,DISEASE,cáncer lobulillar infiltrante
+carcinoma,DISEASE,carcinoma
+infiltrating ductal cancer,DISEASE,cáncer ductal infiltrante
+obesity,DISEASE,obesidad
+aggressive disease,DISEASE,enfermedad agresiva
+toxicity,DISEASE,toxicidad
+weight loss,DISEASE,pérdida de peso
+breast surgeon,DISEASE,cirujano de mama
+lymphadenopathy,DISEASE,linfadenopatía
+phantom breast syndrome,DISEASE,síndrome de mama fantasma
